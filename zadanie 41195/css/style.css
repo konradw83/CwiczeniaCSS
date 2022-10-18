@@ -1,0 +1,39 @@
+body{
+background-color: rgb(174, 172, 172);
+}
+
+h1{
+    background-color: cadetblue;
+}
+
+#paragraf1{
+    background-color: lightslategray;
+}
+
+h2{
+    background-color: steelblue;
+}
+
+#paragraf2{
+    background-color: aquamarine;
+}
+
+ol{
+    background-color: skyblue;
+}
+
+#pkt1{
+color: brown;
+}
+#pkt2{
+    color: darkblue;
+}
+#pkt3{
+    color: darkmagenta;
+}
+#pkt4{
+    color: azure;
+}
+#pkt5{
+    color: darkslateblue;
+}
